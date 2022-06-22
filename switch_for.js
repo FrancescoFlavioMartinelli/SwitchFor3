@@ -259,3 +259,11 @@ for(let lettera of s) {
 
 
 console.log("FIne lezione!");
+
+
+/* */
+document.write("<p>")
+document.write("Hai speso: 50$")
+document.write("Ti rimangono: 50$")
+document.write("Hai superato la meta")
+document.write("</p>")

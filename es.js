@@ -41,3 +41,4 @@ function start() {
 // }
 // console.log("Acquisti totali: ", i);
 // console.log("FINE");
+
